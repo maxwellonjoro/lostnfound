@@ -1,3 +1,2 @@
 # lostnfound
-
-a [Sails](http://sailsjs.org) application
+SailsJS app for registering lost and found items
